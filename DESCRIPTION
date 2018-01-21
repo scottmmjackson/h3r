@@ -1,0 +1,14 @@
+Package: h3r
+Type: Package
+Title: Uber's h3 package bindings for R
+Version: 0.2
+Date: 2018-01-20
+Author: Scott Jackson
+Maintainer: Scott Jackson <scottmmjackson@gmail.com>
+Description: h3 is a hexagonal indexing system for geographical coordinate data.
+  This package requires h3 to be installed.
+SystemRequirements: libh3.1.so and h3 header files (https://github.com/uber/h3)
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.13)
+LinkingTo: Rcpp
+RoxygenNote: 6.0.1
