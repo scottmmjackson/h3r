@@ -1,1 +1,1 @@
-PKG_LIBS=-L/usr/local/lib -lh3.1
+PKG_LIBS=-L/usr/local/lib -lh3
