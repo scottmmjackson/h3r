@@ -15,7 +15,7 @@ Uber's h3 geographical indexing library bindings for the R Programming Language.
 ### Prerequisites
 
 - [h3](https://github.com/uber/h3). You'll need to follow the installation instructions.
-- Linux. I haven't tested the build on OSX but I don't expect it to work, and I'm pretty sure it won't work on Windows.
+- Linux or MacOS.
 
 ### Examples
 
